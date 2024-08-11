@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678998509410",
+    "project_id": "sozluk-kafe-recycler-deneme",
+    "storage_bucket": "sozluk-kafe-recycler-deneme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678998509410:android:67b63bf433b5cf023a0e3b",
+        "android_client_info": {
+          "package_name": "com.onur.denememenulisteleme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9-M4bR8Ukst4x6GFP8w2WJQ5FnTYXAs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
